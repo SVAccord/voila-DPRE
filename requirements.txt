@@ -1,0 +1,6 @@
+voila
+voila-material
+numpy
+pandas
+ipykernel
+ipywidgets
